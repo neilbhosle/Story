@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Build yourself to be a better person
+=======
+Here we save now then checkout
+>>>>>>> alien-plot
